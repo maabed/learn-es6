@@ -1,6 +1,6 @@
 
 let name = 'Mohamed';
-let condition = true; // false
+let condition = true;
 let undef = undefined;
 let array = ['Sara', '22', false, undef]
 let obj = {
@@ -16,7 +16,7 @@ let obj = {
 // !==
 
 
-// let age = 30;
+// let age = 30
 
 // if (typeof age === 'number' && age < 26) { // false // || or 
 //   document.write('Yes age is less than 26' + '<br>')
