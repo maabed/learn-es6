@@ -1,0 +1,13 @@
+.text-style {
+    color:white;
+    background-color: red;
+    padding: 20px;
+    font-size: 25px;
+    width: 40%;
+    float: right;
+}
+
+.list-style {
+    color: red;
+}
+
