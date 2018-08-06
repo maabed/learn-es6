@@ -97,7 +97,8 @@ let data = [
 // [12, 54, 18, 130, 44].every(x => x >= 10); // true
 
 
-// testing merge conflicts 
+// testing merge conflicts 100
+// testing merge conflicts 105
 
 // ==================== findIndex ========================//
 
