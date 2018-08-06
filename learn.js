@@ -97,6 +97,8 @@ let data = [
 // [12, 54, 18, 130, 44].every(x => x >= 10); // true
 
 
+// testing merge conflicts 
+
 // ==================== findIndex ========================//
 
 // const fruits = ["apple", "banana", "cantaloupe", "blueberries", "grapefruit"];
