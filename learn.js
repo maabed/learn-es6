@@ -120,3 +120,7 @@ let data = [
 // let total = 0
 // for (let i = 0; i < numArry.length; total += numArry[i++]);
 // console.log(total)
+
+
+
+// testing merge conflicts 
