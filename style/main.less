@@ -1,0 +1,35 @@
+@color: #336699;
+@red: red;
+@white: white;
+@green: green;
+@navyBlue: blue;
+@width: 50%;
+@width-25: 25%;
+
+
+.main {
+    .first-div {
+        width: @width;
+        float: left;
+        .text-class {
+            color: @green;
+            font-size: 15px;
+            padding-right: 10px;
+
+            .span-class {
+                color: @red;
+            }
+        }
+        ol {
+            li {
+                color: @navyBlue;
+            }
+        }
+    }
+    .second-div {
+        width: @width-25;
+        ul {
+            color: @color;
+        }
+    }
+}
